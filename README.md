@@ -97,28 +97,28 @@ Github Link - https://lnkd.in/fwsKKp4
 
 GRETL - Great Statistical software for Beginners. Here is the Gretl Tutorial by Simone Gasperin
 ================================================================================================
-1)Simple Linear Regression
+1) Simple Linear Regression
 https://lnkd.in/ecfsV9c
 
-2)Coding Dummy Variables
+2) Coding Dummy Variables
 https://lnkd.in/ef7Yd7f
 
-3)Forecasting New Observations
+3) Forecasting New Observations
 https://lnkd.in/eNKbxbU
 
-4)Forecasting a Large Number of Observations
+4) Forecasting a Large Number of Observations
 https://lnkd.in/eHmibGs
 
-5)Logistic Regression
+5) Logistic Regression
 https://lnkd.in/eRfhQ87
 
-6)Forecasting and Confusion Matrix
+6) Forecasting and Confusion Matrix
 https://lnkd.in/eaqrFJr
 
-7)Modeling and Forecasting Time Series Data
+7) Modeling and Forecasting Time Series Data
 https://lnkd.in/e6fqKpF
   
-8)Comparing Time Series Trend Models
+8) Comparing Time Series Trend Models
 https://lnkd.in/eKjEUAE
 
 
