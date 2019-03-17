@@ -1,4 +1,4 @@
-# Data-Science-Tutorials
+# Data Science Tutorials
 
 MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST.
 ==============================================
