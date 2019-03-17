@@ -38,8 +38,8 @@ MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST.
 
 
 
-Some good ***TUTORIALS*** on #datascience #machinelearning #deeplearning
-========================================================================
+Some good ***TUTORIALS*** on Data Science, Machine Learning and Deep Learning
+=============================================================================
 Data Science Training Videos
 https://lnkd.in/fhEUuXM
 
