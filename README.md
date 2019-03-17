@@ -40,31 +40,31 @@ MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST.
 
 Some good ***TUTORIALS*** on Data Science, Machine Learning and Deep Learning
 =============================================================================
-Data Science Training Videos
+1) Data Science Training Videos
 https://lnkd.in/fhEUuXM
 
 
-Data Analysis in Python and Pandas
+2) Data Analysis in Python and Pandas
 https://lnkd.in/f6CAxe7
  
 
-Machine Learning
+3) Machine Learning
 https://lnkd.in/fZYMSNa
 
 
-Machine Learning with Python
+4) Machine Learning with Python
 https://lnkd.in/fv_TjKA
  
 
-Deep Learning Basics
+5) Deep Learning Basics
 https://lnkd.in/fpptKs4
  
 
-Deep Learning tutorial
+6) Deep Learning tutorial
 https://lnkd.in/fZfj3UA
 
 
-Deep Learning with TensorFlow
+7) Deep Learning with TensorFlow
 https://lnkd.in/f9t35fx
 
 
