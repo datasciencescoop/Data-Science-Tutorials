@@ -146,3 +146,10 @@ Useful links for Data Visualization -
 7) Interactive Data Visualization in Python With Bokeh.
 (https://lnkd.in/fEfQAvg)
 
+DATA SCIENCE PROJECTS (a simple to start the datascience journey )
+================================================================================================
+1) Twitter sentiment analysis using python(https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/)
+
+2) Spam detection using python (https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73)
+
+
