@@ -152,4 +152,7 @@ DATA SCIENCE PROJECTS (a simple to start the datascience journey )
 
 2) Spam detection using python (https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73)
 
+3) Heart Disease Classification Model (https://raw.githubusercontent.com/chandanc5525/Classification-Models/main/heart-disease.csv)
+
+4) Cemenetinous Composite Strength Prediction Model # -Best Dataset for Feature Engineering (https://raw.githubusercontent.com/chandanc5525/Regression-Models/main/composite.csv)
 
